@@ -1,8 +1,4 @@
-library domain;
-
-import 'package:equatable/equatable.dart';
 import 'package:uuid/uuid.dart';
-
 export 'package:domain/domain.dart';
 
 // ToDo
